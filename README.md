@@ -52,4 +52,3 @@ limitation (we cant have multiple associations of has_many :through)
 Solution is include/joins
 ```
 
-
